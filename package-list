@@ -1,0 +1,14 @@
+com.digitalglobe.platform2020.identity.annotation
+com.digitalglobe.platform2020.identity.audit
+com.digitalglobe.platform2020.identity.audit.event
+com.digitalglobe.platform2020.identity.audit.impl
+com.digitalglobe.platform2020.identity.authentication
+com.digitalglobe.platform2020.identity.authorization
+com.digitalglobe.platform2020.identity.configuration
+com.digitalglobe.platform2020.identity.configuration.collector
+com.digitalglobe.platform2020.identity.exception
+com.digitalglobe.platform2020.identity.listener
+com.digitalglobe.platform2020.identity.test.camel
+com.digitalglobe.platform2020.identity.test.cxf
+com.digitalglobe.platform2020.identity.test.mvc
+com.digitalglobe.platform2020.identity.test.util
